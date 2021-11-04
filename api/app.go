@@ -9,7 +9,7 @@ import (
 
 func main() {
 	app := Setup()
-	log.Fatal(app.Listen(":8080"))
+	log.Fatal(app.Listen(":3000"))
 }
 
 func Setup() *fiber.App {
