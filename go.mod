@@ -1,4 +1,4 @@
-module github.com/gmvbr/go-app
+module github.com/gmvbr/go-rest
 
 go 1.17
 
