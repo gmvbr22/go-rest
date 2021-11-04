@@ -1,8 +1,8 @@
 run:
-	go run api/app.go
+	go run api/main.go
 
 build:
-	go build -o go_app api/app.go
+	go build -o go_app api/main.go
 
 test:
 	go test ./...
